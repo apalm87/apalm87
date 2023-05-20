@@ -23,11 +23,10 @@ Github profile under rennovation.
 
 ### 📺 YouTube Videos
 
-### Python Snake Game
-[<img src="https://img.youtube.com/vi/EuaQ19jOen4/0.jpg" width="300em">](https://www.youtube.com/watch?v=EuaQ19jOen4)
+| Python Snake Game | C++ Snake Game |
+|:-----------------:|:--------------:|
+|[<img src="https://img.youtube.com/vi/EuaQ19jOen4/0.jpg" width="500em">](https://www.youtube.com/watch?v=EuaQ19jOen4)|[<img src="https://img.youtube.com/vi/3dx6hMa7hYY/0.jpg" width="500em">](https://www.youtube.com/watch?v=3dx6hMa7hYY)|
 
-### C++ Snake Game
-[<img src="https://img.youtube.com/vi/3dx6hMa7hYY/0.jpg" width="300em">](https://www.youtube.com/watch?v=3dx6hMa7hYY)
 
 <!--
 implement below once status improves
