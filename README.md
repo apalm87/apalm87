@@ -5,7 +5,14 @@
 Github profile under rennovation. 
 
 ---
+### 🕸️ Web Sites
+[Art's Incredible Website](https://arts-incredible-website.netlify.app/index.html)
 
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" title="LinkedIn"/>](https://www.linkedin.com/in/apalm87/)
+
+</br>
+
+#
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="Visual Studio Code"/>
