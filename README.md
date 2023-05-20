@@ -29,6 +29,7 @@ implement below once status improves
 ![Arts's GitHub stats](https://github-readme-stats.vercel.app/api?username=apalm87&theme=dark&show_icons=true)
 -->
 
+#
 
 <details>
   <summary><h3>👨‍💻Art's Coding Journey</h3></summary>
