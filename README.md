@@ -21,7 +21,9 @@ Github profile under rennovation.
 
 #
 
-###
+### 📺 YouTube Videos
+
+[![Python Snake Game](https://img.youtube.com/vi/EuaQ19jOen4/0.jpg)](https://www.youtube.com/watch?v=EuaQ19jOen4)
 
 <!--
 implement below once status improves
