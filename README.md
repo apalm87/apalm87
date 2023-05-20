@@ -17,6 +17,10 @@ Github profile under rennovation.
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" title="Linux" />
 
 #
+###
+<!--![Arts's GitHub stats](https://github-readme-stats.vercel.app/api?username=apalm87&theme=dark&show_icons=true)-->
+
+#
 
 <details>
   <summary><h3>👨‍💻Art's Coding Journey</h3></summary>
