@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apalm87
+# Art Palmer
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Computer Science, Web Design
 
