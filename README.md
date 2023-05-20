@@ -16,9 +16,13 @@ Github profile under rennovation.
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" title="C++" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" title="Linux" />
 
+
+<!--
+implement below once status improves
 #
 ###
-<!--![Arts's GitHub stats](https://github-readme-stats.vercel.app/api?username=apalm87&theme=dark&show_icons=true)-->
+![Arts's GitHub stats](https://github-readme-stats.vercel.app/api?username=apalm87&theme=dark&show_icons=true)
+-->
 
 #
 
