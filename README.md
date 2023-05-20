@@ -6,7 +6,7 @@ Github profile under rennovation.
 
 ---
 ### 🕸️ Web Sites
-[My Website of Web Design Projects](https://arts-incredible-website.netlify.app/index.html)
+[My Website of Web Design and Development Projects](https://arts-incredible-website.netlify.app/index.html)
 
 [<img align="left" alt="LinkedIn" width="26em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" title="LinkedIn"/>](https://www.linkedin.com/in/apalmer87/)
 
