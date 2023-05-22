@@ -2,7 +2,7 @@
 
 **`Digital Cratsman (Developer/Tech Enthusist)`**
 
-Github profile under rennovation. 
+I'm a determined developer, meticulously constructing my digital realm one step at a time. With a thirst for growth and a passion for innovation, each coding project I undertake is a carefully curated journey. From inception to execution, I embrace the art of planning and design to solve real-life challenges with grace and ingenuity. My portfolio showcases my academic prowess and unwavering commitment to crafting elegant solutions that leave a lasting impact. 
 
 ---
 ### 🕸️ Web Sites
