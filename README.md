@@ -59,7 +59,7 @@ During my tireless pursuit of enhancing my IT prowess, a serendipitous encounter
 The transition to my current pursuit was not without its obstacles. Following a layoff from my previous IT position, I made the resolute decision to chart a new course as a programmer, rekindling my ardent love for coding. Equipped with invaluable transferable skills gleaned from my experiences in electronic repair and IT, I embraced coding as an immersive, full-time adventure.
   </p>
 
-Amidst my odyssey of crafting software marvels, I have earned a Programming Essentials Certificate, a testament to my unwavering commitment to honing my craft. Simultaneously, I find myself steadfastly engaged in the pursuit of a bachelor's degree, further fortifying my knowledge and capabilities.
+Amidst my self-learning odyssey of crafting awe-inspiring software marvels, I have proudly earned a Programming Essentials Certificate, serving as a testament to my unwavering commitment to constantly refine and elevate my craft. As I embark on the exhilarating pursuit of a bachelor's degree, I find myself wholeheartedly engaged in expanding my knowledge and augmenting my capabilities, forging an unbreakable foundation for my journey as a lifelong learner and creator.
 
 <p>
 Within the vast realm of technology, several fields beckon to me with magnetic allure. The captivating domains of AI, blockchain, video games, VR/AR, cybersecurity, and data science have captured my imagination, and I am ever eager to explore their depths. Furthermore, the dream of one day bringing my own mobile app into existence glimmers on the horizon, a testament to my unwavering ambition and limitless creativity.
