@@ -46,19 +46,28 @@ implement below once status improves
 
 <details>
   <summary><h3>👨‍💻Conquering Challenges, Forging Success: Art's Unforgettable Coding Voyage</h3></summary>
-  From the earliest days of my childhood, I found unbridled joy in the art of creation. Whether it was fashioning macaroni masterpieces, sketching imaginative worlds, constructing intricate structures with Legos, or delving into the realm of coding to bring my own games to life, my passion for bringing ideas to fruition has always burned within me.
+  <p>From the earliest days of my childhood, I found unbridled joy in the art of creation. Whether it was fashioning macaroni masterpieces, sketching imaginative worlds, constructing intricate structures with Legos, or delving into the realm of coding to bring my own games to life, my passion for bringing ideas to fruition has always burned within me.
+</p>
 
+<p>
 While my coding journey commenced in high school, where I first ventured into the realm of Visual Basic, HTML, and CSS, the path I chose after graduation led me down a divergent road of electronics repair. Yet, in a serendipitous turn of events, I was irresistibly drawn into the captivating realm of information technology, owing to the prevalence of computers within virtually all electronic devices. I spent several years engrossed in the realm of Electronics and IT work, honing my skills and expanding my knowledge.
-
+  </p>
+  
 During my tireless pursuit of enhancing my IT prowess, a serendipitous encounter forever altered the trajectory of my journey. Python, an enchanting language, crossed my path and I embraced its charm with fervor. Embarking on a self-taught exploration of Python projects, I rediscovered the profound pleasure of creating things anew. It was an awakening, reigniting the fire within me.
 
+<p>
 The transition to my current pursuit was not without its obstacles. Following a layoff from my previous IT position, I made the resolute decision to chart a new course as a programmer, rekindling my ardent love for coding. Equipped with invaluable transferable skills gleaned from my experiences in electronic repair and IT, I embraced coding as an immersive, full-time adventure.
+  </p>
 
 Amidst my odyssey of crafting software marvels, I have earned a Programming Essentials Certificate, a testament to my unwavering commitment to honing my craft. Simultaneously, I find myself steadfastly engaged in the pursuit of a bachelor's degree, further fortifying my knowledge and capabilities.
 
+<p>
 Within the vast realm of technology, several fields beckon to me with magnetic allure. The captivating domains of AI, blockchain, video games, VR/AR, cybersecurity, and data science have captured my imagination, and I am ever eager to explore their depths. Furthermore, the dream of one day bringing my own mobile app into existence glimmers on the horizon, a testament to my unwavering ambition and limitless creativity.
+  </p>
 
+  <p>
 Beyond the ethereal realm of coding, a realm where dreams manifest as lines of code, I find solace and joy in the company of my child. Together, we revel in the magic of life, cherishing precious moments and crafting memories. Moreover, my love for the great outdoors beckons me, and I readily answer the call. Engaging in exhilarating activities such as biking, kayaking, swimming, and hiking imbues my spirit with renewed vigor, fueling my boundless passion for both creation and adventure.
+    <p/>
 
 <!---
 apalm87/apalm87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
