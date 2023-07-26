@@ -45,7 +45,7 @@ implement below once status improves
 #
 
 <details>
-  <summary><h3>👨‍💻Conquering Challenges, Forging Success: Art's Unforgettable Coding Voyage</h3></summary>
+  <summary><h3>🔮 Exploring the Uncharted Realms of Computer Science and Electronics</h3></summary>
   <p>I am a highly experienced professional in the fields of Computer Science and Electronics, driven by an unwavering passion for Software Development. With a wealth of knowledge and expertise in these domains, I am committed to creating innovative and efficient solutions that push the boundaries of technology. My dedication to continuous learning and staying abreast of the latest industry trends allows me to tackle complex challenges with confidence and deliver cutting-edge software products. Collaborative by nature, I thrive in team environments, fostering creativity and achieving outstanding results. Through my GitHub contributions, I aim to showcase my skills, share valuable insights, and contribute to the thriving community of developers worldwide. Let's craft the future of technology together! 🚀✨
 </p>
 
