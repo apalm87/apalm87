@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Tech Enthusist)`**
 
-I like making programs🚀 
+Taking a break from programming for a bit. in the meantime feel free to look around.🚀 
 
 ---
 ### 🕸️ Web Sites
